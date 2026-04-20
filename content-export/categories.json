@@ -1,0 +1,58 @@
+[
+  {
+    "description": "Award-winning restaurants and culinary experiences on Hilton Head Island",
+    "icon": "\ud83c\udf7d\ufe0f",
+    "name": "Fine Dining",
+    "order": 1,
+    "slug": "fine-dining"
+  },
+  {
+    "description": "Luxury properties and premier real estate on Hilton Head Island",
+    "icon": "\ud83c\udfe0",
+    "name": "Real Estate",
+    "order": 2,
+    "slug": "real-estate"
+  },
+  {
+    "description": "Upscale accommodations and resort living on Hilton Head Island",
+    "icon": "\u2728",
+    "name": "Luxury Living",
+    "order": 3,
+    "slug": "luxury-living"
+  },
+  {
+    "description": "Designer boutiques and beauty services on Hilton Head Island",
+    "icon": "\ud83d\udc57",
+    "name": "Fashion & Beauty",
+    "order": 4,
+    "slug": "fashion-beauty"
+  },
+  {
+    "description": "Charter boats, marinas, and water experiences on Hilton Head Island",
+    "icon": "\u26f5",
+    "name": "Boating & Water",
+    "order": 5,
+    "slug": "boating-water"
+  },
+  {
+    "description": "Art galleries, boutiques, and curated shopping on Hilton Head Island",
+    "icon": "\ud83d\udecd\ufe0f",
+    "name": "Shopping & Galleries",
+    "order": 6,
+    "slug": "shopping-galleries"
+  },
+  {
+    "description": "Premier legal professionals serving Hilton Head Island",
+    "icon": "\u2696\ufe0f",
+    "name": "Legal Services",
+    "order": 7,
+    "slug": "legal-services"
+  },
+  {
+    "description": "Luxury vacation rentals and holiday accommodations on Hilton Head Island",
+    "icon": "\ud83c\udf34",
+    "name": "Vacation & Rentals",
+    "order": 8,
+    "slug": "vacation-rentals"
+  }
+]
